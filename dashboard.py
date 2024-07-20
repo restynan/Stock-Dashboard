@@ -10,7 +10,7 @@ from datetime import datetime
 import pandas as pd
 
 app = dash.Dash()
-AUTH=[['admin', 'adminx']]
+AUTH=[['admin', 'adminxx']]
 auth =dash_auth.BasicAuth(app, AUTH)
 server=app.server
 
