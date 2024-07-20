@@ -40,7 +40,7 @@ To run the Stock Ticker Dashboard:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/restynan/stock-ticker-dashboard.git
+   git clone https://github.com/restynan/Stock-Dashboard.git
 
 2. Navigate to the project directory:
    ```bash
