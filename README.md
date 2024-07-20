@@ -57,7 +57,3 @@ To run the Stock Ticker Dashboard:
 5. Access the dashboard through the local server address:
    ```bash
    http://127.0.0.1:8050/
-
-
-
-
